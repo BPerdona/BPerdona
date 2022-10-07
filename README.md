@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bruno Perdoná
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on cool Android Projects
 - 📫 How to reach me -> bruno15perdona@gmail.com
 
 <!---
